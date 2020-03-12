@@ -2,7 +2,7 @@
 ## Courses:
 
 * __*Crash Course on Python*__
-* *Using Python to Interact with the Operating System*
+* __*Using Python to Interact with the Operating System*__
 * *Introduction to Git and GitHub*
 * *Troubleshooting and Debugging Techniques*
 * *Configuration Management and the Cloud*
