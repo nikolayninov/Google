@@ -39,3 +39,4 @@ __Week 6 - Bash Scripting__
 * Advanced Bash Concepts
 
 __Week 7 - Final Project__
+-----------------------------------------
