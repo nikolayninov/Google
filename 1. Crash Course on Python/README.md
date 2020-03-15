@@ -1,9 +1,14 @@
 # Crash Course on Python
-
 ## Curriculum of the course:
-* ### Week 1 - Hello Python!
-* ### Week 2 - Basic Python Syntax
-* ### Week 3 - Loops
-* ### Week 4 - Strings, Lists and Dictionaries
-* ### Week 5 - Object Oriented Programming
-* ### Week 6 - Final Project
+__Week 1 - Hello Python!__
+--------------------------------------------
+__Week 2 - Basic Python Syntax__
+--------------------------------------------
+__Week 3 - Loops__
+--------------------------------------------
+__Week 4 - Strings, Lists and Dictionaries__
+--------------------------------------------
+__Week 5 - Object Oriented Programming__
+--------------------------------------------
+__Week 6 - Final Project__
+--------------------------------------------
